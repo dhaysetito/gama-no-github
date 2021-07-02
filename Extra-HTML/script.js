@@ -1,1 +1,1 @@
-alert("Testando um alerta")
+// alert("Testando um alerta")
